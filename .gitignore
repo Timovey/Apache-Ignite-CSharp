@@ -1,0 +1,9 @@
+# Сборка и IDE
+[Bb]in/
+[Oo]bj/
+.vs/
+*.user
+*.suo
+
+# Рабочие файлы Apache Ignite (логи, локальное хранилище)
+**/ignite/work/
